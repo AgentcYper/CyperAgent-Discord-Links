@@ -36,7 +36,7 @@
 git clone https://github.com/AgentcYper/CyperAgent-Discord-Links.git
 
 # Enter the directory
-cd Discord-Links-Tool
+cd CyperAgent-Discord-Links-main
 
 # Install dependencies
-pip install -r requirements.txt
+Start Setup.cmd and enjoy :)
