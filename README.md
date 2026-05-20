@@ -33,7 +33,7 @@
 ### 📥 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/CyperAgent/Discord-Links-Tool.git
+git clone https://github.com/AgentcYper/CyperAgent-Discord-Links.git
 
 # Enter the directory
 cd Discord-Links-Tool
